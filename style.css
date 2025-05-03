@@ -1,4 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap');
+
 body {
+    font-family: "Tagesschrift", system-ui;
+
     margin: 0;
     padding: 0;
 }
@@ -6,7 +10,7 @@ body {
 header {
     width: 100%;
     height: 100vh;
-    background: url(header_bg.webp);
+    background: url(цегла.jpg);
     background-size: cover;
     display: flex;
 }
